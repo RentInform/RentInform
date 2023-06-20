@@ -384,16 +384,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/RentInform/Rent-Inform-BE.svg?style=for-the-badge
-[contributors-url]: https://github.com/RentInform/Rent-Inform-BE/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/RentInform/Rent-Inform-BE.svg?style=for-the-badge
-[forks-url]: https://github.com/RentInform/Rent-Inform-BE/network/members
-[stars-shield]: https://img.shields.io/github/stars/RentInform/Rent-Inform-BE.svg?style=for-the-badge
-[stars-url]: https://github.com/RentInform/Rent-Inform-BE/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RentInform/Rent-Inform-BE.svg?style=for-the-badge
-[issues-url]: https://github.com/RentInform/Rent-Inform-BE/issues
-[license-shield]: https://img.shields.io/github/license/RentInform/Rent-Inform-BE.svg?style=for-the-badge
-[license-url]: https://github.com/RentInform/Rent-Inform-BE/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/RentInform/BE-Rent-Inform.svg?style=for-the-badge
+[contributors-url]: https://github.com/RentInform/BE-Rent-Inform/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RentInform/BE-Rent-Inform.svg?style=for-the-badge
+[forks-url]: https://github.com/RentInform/BE-Rent-Inform/network/members
+[stars-shield]: https://img.shields.io/github/stars/RentInform/BE-Rent-Inform.svg?style=for-the-badge
+[stars-url]: https://github.com/RentInform/BE-Rent-Inform/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RentInform/BE-Rent-Inform.svg?style=for-the-badge
+[issues-url]: https://github.com/RentInform/BE-Rent-Inform/issues
+[license-shield]: https://img.shields.io/github/license/RentInform/BE-Rent-Inform.svg?style=for-the-badge
+[license-url]: https://github.com/RentInform/BE-Rent-Inform/blob/main/LICENSE.txt
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [caroline-li-url]: https://www.linkedin.com/in/carolineperi/
 [grace-li-url]: https://www.linkedin.com/in/graceehjoh/
@@ -416,7 +416,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Heroku-url]: https://devcenter.heroku.com/articles/getting-started-with-rails7
 [Github]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [project-fe-gh-url]: https://github.com/RentInform/Rent-Inform-FE
-[project-be-gh-url]: https://github.com/RentInform/Rent-Inform-BE
+[project-be-gh-url]: https://github.com/RentInform/BE-Rent-Inform
 [caroline-gh-url]: https://github.com/cariperi
 [grace-gh-url]: https://github.com/grace-joh
 [logan-gh-url]: https://github.com/exasperlnc

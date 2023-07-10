@@ -84,7 +84,7 @@ The **back end application** is an API built with the Rails framework. It expose
 
 - [Production Website](https://rent-inform-36792dcf8db2.herokuapp.com/)
 - [Backend Service](https://sheltered-harbor-92742.herokuapp.com/)
-  - To reach endpoint append `/api/v0/search?street='123-main-street'&zip='12345'`
+  - To reach endpoint append `/api/v0/search?street='123-main-street'&zip='12345'` to URL linked above
   - See more endpoints [here](https://github.com/RentInform/Rent-Inform-BE)
 - Github repositories:
   * Front End: [![Github][Github]][project-fe-gh-url]

@@ -82,7 +82,7 @@ The **front end application** handles user interaction through the browser, and 
 
 The **back end application** is an API built with the Rails framework. It exposes 5 RESTful endpoints and is responsible for recieving JSON requests, querying the internal database (certified rental properties), consuming external APIs, and formatting JSON responses to send data to the front end application.
 
-- [Production Website](https://mysterious-escarpment-07313.herokuapp.com/)
+- [Production Website](https://rent-inform-36792dcf8db2.herokuapp.com/)
 - [Backend Service](https://sheltered-harbor-92742.herokuapp.com/)
   - To reach endpoint append `/api/v0/search?street='123-main-street'&zip='12345'`
   - See more endpoints [here](https://github.com/RentInform/Rent-Inform-BE)
@@ -132,8 +132,8 @@ To demo RentInform on your local machine, follow these steps:
 
 ### Back End Repository
 
-1. Clone the back end [repo](https://github.com/RentInform/Rent-Inform-BE)
-2. Follow instructions in the backend repo `README`
+1. Clone the back end [repo](https://github.com/RentInform/BE-Rent-Inform)
+2. Follow instructions in the back end repo `README`
 
 ### Prerequisites
 - Ruby Version 3.1.1
@@ -226,10 +226,6 @@ The team tested happy paths, sad paths, and edge cases when needed. Error respon
           "city": "Philadelphia",
           "state": "PA"
           "zip": "19148"
-          "walk_score": "89",
-          "transit_score": "57",
-          "bike_score": "23",
-          "safety_score": "99"
       }
     }
   }</code>
@@ -288,9 +284,19 @@ The team tested happy paths, sad paths, and edge cases when needed. Error respon
         "transit_score": "57",
         "bike_score": "23",
         "safety_score": "99"
+        "lat": "39.5",
+        "lon": "-79.0",
+        "parks": {
+            "park_1_name": "Spruce Street Harbor Park",
+            "park_1_street": "South Christopher Columbus Boulevard",
+            "park_2_name": "I-95 Park",
+            "park_2_street": "South Front Street",
+            "park_3_name": "Welcome Park",
+            "park_3_street":"South 2nd Street" 
+        }
     }
   }
-    }</code>
+}</code>
 </details>
 <br>
 <details>
